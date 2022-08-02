@@ -31,5 +31,5 @@ This project is a Responsive UI webpage which is created by using HTML and CSS.
 [Project - 2](https://project-02-rk.netlify.app/)
 
 # Thumbnail
+![thumbnail](https://user-images.githubusercontent.com/109421054/182436300-cde16d1a-b345-422f-b64f-6bdfc563cf07.PNG)
 
-![thumbnail_pic](thumbnail.jpg)
